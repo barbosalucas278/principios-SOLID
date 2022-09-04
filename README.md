@@ -10,7 +10,7 @@
 
 [D - Dependency Inversion](https://github.com/barbosalucas278/principios-SOLID/tree/main/DependencyInversion)
 
-## **Aclaración** Los ejemplos teóricos estan implementados en JavaScript
+**Aclaración** Los ejemplos teóricos estan implementados en JavaScript
 En este sentido la aplicación de los principios SOLID está muy relacionada con la comprensión y el uso de **patrones de diseño**, que nos permitirán mantener una **alta cohesión** y, por tanto, un **bajo acoplamiento** de software.
 
 ### **Acoplamiento**
