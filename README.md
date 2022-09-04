@@ -2,13 +2,13 @@
 
 [S - Single Responsability](https://github.com/barbosalucas278/principios-SOLID/tree/main/SingleResponsability)
 
-[O - Open Closed](https://github.com/barbosalucas278/principios-SOLID/tree/main/SingleResponsability)
+[O - Open Closed](https://github.com/barbosalucas278/principios-SOLID/tree/main/OpenClosed)
 
 [L - Liskov Substitution](https://github.com/barbosalucas278/principios-SOLID/tree/main/LiskovSubstitution)
 
 [I - Interface Segregation](https://github.com/barbosalucas278/principios-SOLID/tree/main/InterfaceSegregation)
 
-[D - Dependency Inversion](https://github.com/barbosalucas278/principios-SOLID/tree/main/OpenClosed)
+[D - Dependency Inversion](https://github.com/barbosalucas278/principios-SOLID/tree/main/DependencyInversion)
 
 En este sentido la aplicación de los principios SOLID está muy relacionada con la comprensión y el uso de **patrones de diseño**, que nos permitirán mantener una **alta cohesión** y, por tanto, un **bajo acoplamiento** de software.
 
